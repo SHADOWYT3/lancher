@@ -1,5 +1,5 @@
 {
-  "maintenance": "off",
+  "maintenance": "on",
   "maintenance_message": "Le server est en maintenance.<br>Merci de bien vouloir essayer ultérieurement.",
   "offline": "off",
   "client_id": "",
